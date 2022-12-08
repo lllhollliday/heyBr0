@@ -1,4 +1,9 @@
 ### Hi there 👋
+### - 👯 I’m open to work
+### - 🌱 I’m currently finishing my Full Stack Web Development Course at Digital Career Institute, Berlin
+### - 🔭 My LinkedIn: https://www.linkedin.com/in/dmitry-benert-1725b4252/
+### - :star: My Portfolio: https://heybr0.github.io/My-Portfolio
+
 
 <!--
 **heyBr0/heyBr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
