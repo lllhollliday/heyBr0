@@ -2,6 +2,7 @@
 - 🌱 I’m currently finishing my Full Stack Web Development Course at Digital Career Institute, Berlin
 - 🔭 My LinkedIn: https://www.linkedin.com/in/dmitry-benert/
 - :star: My Portfolio: https://heybr0.github.io/My-Portfolio
+- 📫 Contact: benert@live.de
 
 
 <!--
