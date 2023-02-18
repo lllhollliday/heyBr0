@@ -1,8 +1,8 @@
 <a href="https://api.eu.badgr.io/public/assertions/Wpy6VCv9R6eIwenci_p5Pw?identity__email=benert%40live.de"><img src="https://media.eu.badgr.com/uploads/badges/assertion-Wpy6VCv9R6eIwenci_p5Pw.png" width="90"></a>
 - 👯 I’m open to work
 - 🌱 I’m currently finishing my Full Stack Web Development Course at Digital Career Institute Berlin
-- 🔭 My LinkedIn: https://www.linkedin.com/in/dmitry-benert/
-- :star: My Portfolio: https://heybr0.github.io/My-Portfolio
+- :star: My portfolio and projects: https://heybr0.github.io/My-Portfolio
+- - 🔭 My LinkedIn: https://www.linkedin.com/in/dmitry-benert/
 - 📫 Contact: benert@live.de
 
 
