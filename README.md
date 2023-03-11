@@ -1,5 +1,5 @@
 - 👯 I’m open to work
-- 🌱 I’m currently finishing my Full Stack Web Development Course at Digital Career Institute Berlin
+- 🌱 I’m currently completing my Full Stack Web Development Course at Digital Career Institute Berlin
 - :star: My portfolio and projects: https://heybr0.github.io/My-Portfolio
 - 🔭 My LinkedIn: https://www.linkedin.com/in/dmitry-benert/
 - 📫 E-mail: benert@live.de
