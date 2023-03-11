@@ -1,4 +1,3 @@
-<a href="https://api.eu.badgr.io/public/assertions/Wpy6VCv9R6eIwenci_p5Pw?identity__email=benert%40live.de"><img src="https://media.eu.badgr.com/uploads/badges/assertion-Wpy6VCv9R6eIwenci_p5Pw.png" width="90"></a>
 - 👯 I’m open to work
 - 🌱 I’m currently finishing my Full Stack Web Development Course at Digital Career Institute Berlin
 - :star: My portfolio and projects: https://heybr0.github.io/My-Portfolio
@@ -11,7 +10,7 @@
 <!--
 **heyBr0/heyBr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://api.eu.badgr.io/public/assertions/Wpy6VCv9R6eIwenci_p5Pw?identity__email=benert%40live.de"><img src="https://media.eu.badgr.com/uploads/badges/assertion-Wpy6VCv9R6eIwenci_p5Pw.png" width="90"></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
