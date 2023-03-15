@@ -1,4 +1,4 @@
-- 👯 Hi, I am looking for a Junior Web Developer position.
+- 👯 Hi, I am looking for a Junior Frontend Developer / Junior Web Developer / Junior Full Stack Developer position.
 - 🌱 I’m currently completing my Full Stack Web Development Course at Digital Career Institute Berlin
 - :star: My portfolio and projects: https://heybr0.github.io/My-Portfolio
 - 🔭 My LinkedIn: https://www.linkedin.com/in/dmitry-benert/
